@@ -1,0 +1,6 @@
+Goofy dog 8
+Minnie mouse 22
+Daisy duck 18
+Mickey mouse 25
+Pluto dog 10
+Donald duck 21
